@@ -1,0 +1,28 @@
+﻿Aldersgrupper;Klassifikation;Antal nyindlæggelser;Andel nyindlæggelser (i aldersgruppe)
+0-9;Indlæggelse pga. covid-19;1586;0,4598
+0-9;Indlæggelse, hvor covid-19 kan have spillet en rolle;1161;0,3366
+0-9;Indlæggelse pga. andre forhold end covid-19;702;0,2035
+10-19;Indlæggelse pga. covid-19;354;0,2057
+10-19;Indlæggelse, hvor covid-19 kan have spillet en rolle;361;0,2098
+10-19;Indlæggelse pga. andre forhold end covid-19;1006;0,5845
+20-29;Indlæggelse pga. covid-19;1223;0,2694
+20-29;Indlæggelse, hvor covid-19 kan have spillet en rolle;1082;0,2383
+20-29;Indlæggelse pga. andre forhold end covid-19;2235;0,4923
+30-39;Indlæggelse pga. covid-19;1926;0,3397
+30-39;Indlæggelse, hvor covid-19 kan have spillet en rolle;1321;0,2330
+30-39;Indlæggelse pga. andre forhold end covid-19;2422;0,4272
+40-49;Indlæggelse pga. covid-19;2563;0,4865
+40-49;Indlæggelse, hvor covid-19 kan have spillet en rolle;869;0,1650
+40-49;Indlæggelse pga. andre forhold end covid-19;1836;0,3485
+50-59;Indlæggelse pga. covid-19;3503;0,4886
+50-59;Indlæggelse, hvor covid-19 kan have spillet en rolle;1384;0,1930
+50-59;Indlæggelse pga. andre forhold end covid-19;2283;0,3184
+60-69;Indlæggelse pga. covid-19;4200;0,4800
+60-69;Indlæggelse, hvor covid-19 kan have spillet en rolle;1926;0,2201
+60-69;Indlæggelse pga. andre forhold end covid-19;2624;0,2999
+70-79;Indlæggelse pga. covid-19;7014;0,5080
+70-79;Indlæggelse, hvor covid-19 kan have spillet en rolle;3326;0,2409
+70-79;Indlæggelse pga. andre forhold end covid-19;3467;0,2511
+80+;Indlæggelse pga. covid-19;8614;0,5606
+80+;Indlæggelse, hvor covid-19 kan have spillet en rolle;3698;0,2406
+80+;Indlæggelse pga. andre forhold end covid-19;3055;0,1988
