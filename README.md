@@ -1,3 +1,5 @@
+Archived: SSI stopped updating the daily data on March 31, 2023.
+
 # Danish COVID-19 data
 
 Every day, [SSI publishes new tracking data](https://covid19.ssi.dk/overvagningsdata/download-fil-med-overvaagningdata) on COVID-19 for Denmark. However, automatically finding the most recent data and using it is a bit awkward due to files being randomly named and zipped. The purpose of this repository is simply to automate the annoying parts, making the data as accessible as possible.
